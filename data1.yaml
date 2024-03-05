@@ -1,0 +1,5 @@
+train: D:\UTN\Semestre 8\Deberes\TITULACION I\TITULACION II\Traductor\train/
+val: D:\UTN\Semestre 8\Deberes\TITULACION I\TITULACION II\Traductor\valid/
+
+nc: 26
+names: ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
